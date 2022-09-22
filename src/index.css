@@ -6,4 +6,7 @@
   button {
     @apply border border-black rounded-xl px-5 py-1
   }
+  li {
+    @apply hover:bg-[#000300] hover:text-white cursor-pointer duration-200 rounded-lg
+  }
 }
